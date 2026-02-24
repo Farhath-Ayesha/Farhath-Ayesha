@@ -1,6 +1,6 @@
 # Hi 👋 I'm Farhath Ayesha Mohammad
 
-🚀 Frontend Developer | UI/UX Enthusiast | Passionate About Building Seamless Web Experiences
+🚀 Frontend Engineer | UI/UX Enthusiast | Passionate About Building Seamless Web Experiences
 
 ---
 
@@ -34,13 +34,13 @@ Git • GitHub • CI/CD (GitHub Actions) • Headless CMS • REST APIs • Com
 
 ## 💼 Professional Journey
 
-Frontend Developer & UI/UX Designer at AppNetWise
+Frontend Engineer & UI/UX Designer at AppNetWise
 
-- Started as a Software Trainee and evolved into a core frontend contributor
-- Designed interactive Figma prototypes and implemented them in production
-- Built scalable React and Next.js applications
-- Improved UI consistency and user experience across projects
-- Collaborated closely with backend and design teams
+- Progressed from Software Trainee to a key frontend contributor within the team  
+- Designed high-fidelity Figma prototypes and translated them into production-ready applications  
+- Developed scalable and maintainable interfaces using React and Next.js  
+- Enhanced UI consistency and overall user experience across multiple projects  
+- Collaborated with cross-functional teams to ensure seamless design-to-development execution 
 
 ---
 
